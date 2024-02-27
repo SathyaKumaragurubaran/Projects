@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Us - Web Development Course</title>
+    <a href=""
+    <link rel="stylesheet" href="Aboutus.css">
+</head>
+<body>
+    <section class="about-section">
+        <h1>About Us</h1>
+        <p>Welcome to our Web Development Course!</p>
+        <p>We are passionate about teaching web development and helping individuals bring their ideas to life on the web. Our experienced instructors have a deep understanding of modern web technologies and are dedicated to providing you with a comprehensive learning experience.</p>
+        <p>Whether you're a beginner looking to start your journey in web development or an experienced developer aiming to expand your skillset, our courses are designed to cater to all levels of expertise. We focus on hands-on projects, practical examples, and real-world applications to ensure you gain the skills needed to excel in the ever-evolving field of web development.</p>
+        <p>Join us on this exciting learning journey and unlock the world of web development. Together, we'll build websites, web applications, and explore the latest trends and best practices in the industry.</p>
+    </section>
+    <footer>
+        <p>&copy; 2023 Web Development Course. All rights reserved.</p>
+    </footer>
+</body>
+</html>
